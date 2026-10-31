@@ -1,0 +1,6 @@
+{
+  "name": "SYSTEM: AWAKENING",
+  "description": "Gamified real-life discipline and progression system inspired by Solo Leveling with daily quests, ranks, stats, and habit tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
